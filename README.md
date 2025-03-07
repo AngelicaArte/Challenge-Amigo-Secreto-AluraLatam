@@ -34,11 +34,11 @@ al hacer clic en "Adicionar".</h6>
 
 <img width="1792" alt="6" src="https://github.com/user-attachments/assets/c003c796-cd5e-467c-8315-f333fa7bd41f" />
 
-<H1>3. Donde programe </H1>
+<H2>3. Plataforma donde programé </H2>
 JavaScript
 
-<H1>4. Quién programe </H1>
-JavaScript
+<H2>4. Desarrollador </H2>
+Angélica Carrascal - AngelicaArte
 
 
 
